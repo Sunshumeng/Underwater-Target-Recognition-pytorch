@@ -1,0 +1,149 @@
+filename,filepath,label,attribute
+0-Atlantic Spotted Dolphin-最佳削减001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\0-Atlantic Spotted Dolphin-最佳削减001.npy,10,0
+0-Atlantic Spotted Dolphin-最佳削减002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\0-Atlantic Spotted Dolphin-最佳削减002.npy,10,0
+0-Atlantic Spotted Dolphin-最佳削减003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\0-Atlantic Spotted Dolphin-最佳削减003.npy,10,0
+0-Atlantic Spotted Dolphin-最佳削减004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\0-Atlantic Spotted Dolphin-最佳削减004.npy,10,0
+1-Bearded Seal-66038001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\1-Bearded Seal-66038001.npy,25,1
+1-Bearded Seal-66038002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\1-Bearded Seal-66038002.npy,25,1
+1-Bearded Seal-66038003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\1-Bearded Seal-66038003.npy,25,1
+1-Bearded Seal-66038004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\1-Bearded Seal-66038004.npy,25,1
+1-Bearded Seal-最佳削减001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\1-Bearded Seal-最佳削减001.npy,25,1
+1-Bearded Seal-最佳削减002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\1-Bearded Seal-最佳削减002.npy,25,1
+1-Bearded Seal-最佳削减003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\1-Bearded Seal-最佳削减003.npy,25,1
+10-Grampus-59029001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\10-Grampus-59029001.npy,30,10
+10-Grampus-59029002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\10-Grampus-59029002.npy,30,10
+10-Grampus-59029003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\10-Grampus-59029003.npy,30,10
+10-Grampus-59029007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\10-Grampus-59029007.npy,30,10
+11-Harp Seal-67009001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\11-Harp Seal-67009001.npy,26,11
+11-Harp Seal-67009002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\11-Harp Seal-67009002.npy,26,11
+11-Harp Seal-67009003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\11-Harp Seal-67009003.npy,26,11
+11-Harp Seal-67009004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\11-Harp Seal-67009004.npy,26,11
+12-Humpback Whale-55113-004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\12-Humpback Whale-55113-004.npy,7,12
+12-Humpback Whale-55113001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\12-Humpback Whale-55113001.npy,7,12
+12-Humpback Whale-55113002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\12-Humpback Whale-55113002.npy,7,12
+12-Humpback Whale-55113003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\12-Humpback Whale-55113003.npy,7,12
+13-Killer Whale-60026001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\13-Killer Whale-60026001.npy,8,13
+13-Killer Whale-60026002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\13-Killer Whale-60026002.npy,8,13
+13-Killer Whale-60026003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\13-Killer Whale-60026003.npy,8,13
+13-Killer Whale-60026004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\13-Killer Whale-60026004.npy,8,13
+14-Leopard Seal-6608400I,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\14-Leopard Seal-6608400I.npy,15,14
+14-Leopard Seal-6608400J,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\14-Leopard Seal-6608400J.npy,15,14
+14-Leopard Seal-6608400N,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\14-Leopard Seal-6608400N.npy,15,14
+14-Leopard Seal-6608400P,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\14-Leopard Seal-6608400P.npy,15,14
+15-Long Finned Pilot Whale-54024001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\15-Long Finned Pilot Whale-54024001.npy,0,15
+15-Long Finned Pilot Whale-54024002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\15-Long Finned Pilot Whale-54024002.npy,0,15
+15-Long Finned Pilot Whale-54024003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\15-Long Finned Pilot Whale-54024003.npy,0,15
+15-Long Finned Pilot Whale-54024006,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\15-Long Finned Pilot Whale-54024006.npy,0,15
+15-Long Finned Pilot Whale-54024007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\15-Long Finned Pilot Whale-54024007.npy,0,15
+15-Long Finned Pilot Whale-54024008,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\15-Long Finned Pilot Whale-54024008.npy,0,15
+15-Long Finned Pilot Whale-54024009,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\15-Long Finned Pilot Whale-54024009.npy,0,15
+16-Melon Headed Whale-91012003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\16-Melon Headed Whale-91012003.npy,5,16
+16-Melon Headed Whale-91012006,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\16-Melon Headed Whale-91012006.npy,5,16
+16-Melon Headed Whale-91012007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\16-Melon Headed Whale-91012007.npy,5,16
+16-Melon Headed Whale-91012009,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\16-Melon Headed Whale-91012009.npy,5,16
+16-Melon Headed Whale-9101200B,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\16-Melon Headed Whale-9101200B.npy,5,16
+16-Melon Headed Whale-9101200C,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\16-Melon Headed Whale-9101200C.npy,5,16
+16-Melon Headed Whale-9101200I,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\16-Melon Headed Whale-9101200I.npy,5,16
+17-Minke Whale-64103001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\17-Minke Whale-64103001.npy,3,17
+17-Minke Whale-64103002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\17-Minke Whale-64103002.npy,3,17
+17-Minke Whale-64103003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\17-Minke Whale-64103003.npy,3,17
+17-Minke Whale-64103004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\17-Minke Whale-64103004.npy,3,17
+18-Narwhal-68002006,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\18-Narwhal-68002006.npy,1,18
+18-Narwhal-68002007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\18-Narwhal-68002007.npy,1,18
+18-Narwhal-68002008,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\18-Narwhal-68002008.npy,1,18
+18-Narwhal-6800200A,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\18-Narwhal-6800200A.npy,1,18
+18-Narwhal-6800200B,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\18-Narwhal-6800200B.npy,1,18
+19-Northern Right Whale-56017007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\19-Northern Right Whale-56017007.npy,19,19
+19-Northern Right Whale-56017008,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\19-Northern Right Whale-56017008.npy,19,19
+19-Northern Right Whale-5601700B,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\19-Northern Right Whale-5601700B.npy,19,19
+19-Northern Right Whale-5601700F,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\19-Northern Right Whale-5601700F.npy,19,19
+19-Northern Right Whale-5601700O,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\19-Northern Right Whale-5601700O.npy,19,19
+2-Beluga White Whale-62018001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\2-Beluga White Whale-62018001.npy,13,2
+2-Beluga White Whale-62018002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\2-Beluga White Whale-62018002.npy,13,2
+20-Pantropical Spotted Dolphin-64005009,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\20-Pantropical Spotted Dolphin-64005009.npy,2,20
+20-Pantropical Spotted Dolphin-6400500D,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\20-Pantropical Spotted Dolphin-6400500D.npy,2,20
+20-Pantropical Spotted Dolphin-64005015,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\20-Pantropical Spotted Dolphin-64005015.npy,2,20
+20-Pantropical Spotted Dolphin-64005016,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\20-Pantropical Spotted Dolphin-64005016.npy,2,20
+20-Pantropical Spotted Dolphin-64005017,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\20-Pantropical Spotted Dolphin-64005017.npy,2,20
+20-Pantropical Spotted Dolphin-6400501B,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\20-Pantropical Spotted Dolphin-6400501B.npy,2,20
+20-Pantropical Spotted Dolphin-6400501C,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\20-Pantropical Spotted Dolphin-6400501C.npy,2,20
+21-Ross Seal-66002A01,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\21-Ross Seal-66002A01.npy,9,21
+21-Ross Seal-66002A02,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\21-Ross Seal-66002A02.npy,9,21
+21-Ross Seal-66002A03,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\21-Ross Seal-66002A03.npy,9,21
+21-Ross Seal-66002A04,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\21-Ross Seal-66002A04.npy,9,21
+21-Ross Seal-66002A05,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\21-Ross Seal-66002A05.npy,9,21
+22-Rough Toothed Dolphin-85013002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\22-Rough Toothed Dolphin-85013002.npy,20,22
+22-Rough Toothed Dolphin-85013007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\22-Rough Toothed Dolphin-85013007.npy,20,22
+22-Rough Toothed Dolphin-85013009,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\22-Rough Toothed Dolphin-85013009.npy,20,22
+22-Rough Toothed Dolphin-8501300A,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\22-Rough Toothed Dolphin-8501300A.npy,20,22
+22-Rough Toothed Dolphin-8501300E,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\22-Rough Toothed Dolphin-8501300E.npy,20,22
+23-Short Finned Pilot Whale-57021001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\23-Short Finned Pilot Whale-57021001.npy,27,23
+23-Short Finned Pilot Whale-57021002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\23-Short Finned Pilot Whale-57021002.npy,27,23
+23-Short Finned Pilot Whale-57021003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\23-Short Finned Pilot Whale-57021003.npy,27,23
+23-Short Finned Pilot Whale-57021004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\23-Short Finned Pilot Whale-57021004.npy,27,23
+23-Short Finned Pilot Whale-57021005,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\23-Short Finned Pilot Whale-57021005.npy,27,23
+24-Southern Right Whale-79002004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\24-Southern Right Whale-79002004.npy,4,24
+24-Southern Right Whale-79002007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\24-Southern Right Whale-79002007.npy,4,24
+24-Southern Right Whale-7900200K,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\24-Southern Right Whale-7900200K.npy,4,24
+24-Southern Right Whale-7900200L,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\24-Southern Right Whale-7900200L.npy,4,24
+24-Southern Right Whale-7900200Q,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\24-Southern Right Whale-7900200Q.npy,4,24
+25- Sperm Whale-72009003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\25- Sperm Whale-72009003.npy,16,25
+25-Sperm Whale-72009001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\25-Sperm Whale-72009001.npy,16,25
+25-Sperm Whale-72009002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\25-Sperm Whale-72009002.npy,16,25
+25-Sperm Whale-72009004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\25-Sperm Whale-72009004.npy,16,25
+25-Sperm Whale-72009005,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\25-Sperm Whale-72009005.npy,16,25
+26-Spinner Dolphin-7100100C,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\26-Spinner Dolphin-7100100C.npy,18,26
+26-Spinner Dolphin-7100100N,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\26-Spinner Dolphin-7100100N.npy,18,26
+26-Spinner Dolphin-7100100X,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\26-Spinner Dolphin-7100100X.npy,18,26
+26-Spinner Dolphin-7100100Z,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\26-Spinner Dolphin-7100100Z.npy,18,26
+26-Spinner Dolphin-71001010,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\26-Spinner Dolphin-71001010.npy,18,26
+27-Striped Dolphin-58011001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\27-Striped Dolphin-58011001.npy,6,27
+27-Striped Dolphin-58011002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\27-Striped Dolphin-58011002.npy,6,27
+27-Striped Dolphin-58011004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\27-Striped Dolphin-58011004.npy,6,27
+27-Striped Dolphin-58011007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\27-Striped Dolphin-58011007.npy,6,27
+27-Striped Dolphin-58011008,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\27-Striped Dolphin-58011008.npy,6,27
+28-Walrus-72002001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\28-Walrus-72002001.npy,23,28
+28-Walrus-72002002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\28-Walrus-72002002.npy,23,28
+28-Walrus-72002003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\28-Walrus-72002003.npy,23,28
+28-Walrus-72002004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\28-Walrus-72002004.npy,23,28
+29-Weddel Seal-64041002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\29-Weddel Seal-64041002.npy,31,29
+3-Bottlenose Dolphin-56006001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\3-Bottlenose Dolphin-56006001.npy,28,3
+3-Bottlenose Dolphin-56006002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\3-Bottlenose Dolphin-56006002.npy,28,3
+3-Bottlenose Dolphin-56006003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\3-Bottlenose Dolphin-56006003.npy,28,3
+3-Bottlenose Dolphin-56006004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\3-Bottlenose Dolphin-56006004.npy,28,3
+30-White beaked Dolphin-59037005,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\30-White beaked Dolphin-59037005.npy,12,30
+30-White beaked Dolphin-59037006,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\30-White beaked Dolphin-59037006.npy,12,30
+30-White beaked Dolphin-59037007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\30-White beaked Dolphin-59037007.npy,12,30
+30-White beaked Dolphin-59037008,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\30-White beaked Dolphin-59037008.npy,12,30
+31-White sided Dolphin-61072004,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\31-White sided Dolphin-61072004.npy,29,31
+31-White sided Dolphin-61072005,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\31-White sided Dolphin-61072005.npy,29,31
+31-White sided Dolphin-61072006,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\31-White sided Dolphin-61072006.npy,29,31
+31-White sided Dolphin-6107200E,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\31-White sided Dolphin-6107200E.npy,29,31
+31-White sided Dolphin-6107200G,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\31-White sided Dolphin-6107200G.npy,29,31
+4-Bowhead Whale-78018002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\4-Bowhead Whale-78018002.npy,14,4
+4-Bowhead Whale-78018003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\4-Bowhead Whale-78018003.npy,14,4
+4-Bowhead Whale-7801800B,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\4-Bowhead Whale-7801800B.npy,14,4
+4-Bowhead Whale-7801800D,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\4-Bowhead Whale-7801800D.npy,14,4
+5-Clymene Dolphin-83006001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\5-Clymene Dolphin-83006001.npy,21,5
+5-Clymene Dolphin-83006002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\5-Clymene Dolphin-83006002.npy,21,5
+5-Clymene Dolphin-83006003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\5-Clymene Dolphin-83006003.npy,21,5
+5-Clymene Dolphin-8300600N,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\5-Clymene Dolphin-8300600N.npy,21,5
+5-Clymene Dolphin-83035001,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\5-Clymene Dolphin-83035001.npy,21,5
+5-Clymene Dolphin-83035002,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\5-Clymene Dolphin-83035002.npy,21,5
+5-Clymene Dolphin-83035003,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\5-Clymene Dolphin-83035003.npy,21,5
+6-Common Dolphin-58014-028,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\6-Common Dolphin-58014-028.npy,11,6
+6-Common Dolphin-5801400J,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\6-Common Dolphin-5801400J.npy,11,6
+6-Common Dolphin-58014014,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\6-Common Dolphin-58014014.npy,11,6
+6-Common Dolphin-58014015,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\6-Common Dolphin-58014015.npy,11,6
+7-False killer whale-61023005,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\7-False killer whale-61023005.npy,17,7
+7-False killer whale-61023006,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\7-False killer whale-61023006.npy,17,7
+7-False killer whale-61023008,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\7-False killer whale-61023008.npy,17,7
+7-False killer whale-6102300A,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\7-False killer whale-6102300A.npy,17,7
+8-Finback whale-60009005,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\8-Finback whale-60009005.npy,22,8
+8-Finback whale-60009006,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\8-Finback whale-60009006.npy,22,8
+8-Finback whale-60009007,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\8-Finback whale-60009007.npy,22,8
+8-Finback whale-6000900L,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\8-Finback whale-6000900L.npy,22,8
+9-Fraser Dolphin-91008005,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\9-Fraser Dolphin-91008005.npy,24,9
+9-Fraser Dolphin-91008008,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\9-Fraser Dolphin-91008008.npy,24,9
+9-Fraser Dolphin-9100800C,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\9-Fraser Dolphin-9100800C.npy,24,9
+9-Fraser Dolphin-9100800F,D:/音频分类/Pytorch-AudioClassification-master-main - MT/data/scatter/npy_data0\9-Fraser Dolphin-9100800F.npy,24,9
